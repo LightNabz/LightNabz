@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgoudham&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=LightNabz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LightNabz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
