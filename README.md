@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LightNabz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/87846302" style="border-radius: 12px;" />
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -32,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LightNabz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### 🌐 Let's Link Up~
