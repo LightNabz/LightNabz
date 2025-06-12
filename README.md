@@ -4,15 +4,15 @@
 <p align="left">I build cool stuff on the web, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again.</p>
 
 ###
-
+<div align="center" style="border-radius: 180px;">
 <img align="center" height="50" src="https://avatars.githubusercontent.com/u/87846302" style="border-radius: 180px;" />
-
-
+</div>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LightNabz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
 </div>
 
-<br>
+<br><br>
 
 ### 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LightNabz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br>
+<br><br>
 
 ### 🌐 Let's Link Up~
 
