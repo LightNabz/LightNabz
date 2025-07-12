@@ -1,7 +1,7 @@
 <h2 align="left">Hi there~ 👋 I'm Nabz!</h2>
 <h3 align="left">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
 
-<p align="left">I build cool stuff on the web, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again.</p>
+<p align="left">I build cool (messy) stuff, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again, and... sometimes touch grass. Sometimes.</p>
 
 ###
 <div align="center">
