@@ -4,8 +4,8 @@
 <p align="left">I build cool stuff on the web, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again.</p>
 
 ###
-<div align="center" style="border-radius: 180px;">
-<img align="center" height="50" src="https://avatars.githubusercontent.com/u/87846302" style="border-radius: 180px;" />
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/87846302" height="90" style="border-radius: 180px;" />
 </div>
 <br>
 <div align="center">
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
 </div>
