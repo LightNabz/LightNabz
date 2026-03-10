@@ -6,9 +6,7 @@
 ###
 <div align="center">
   <img src="https://github-stats-card-two.vercel.app/api/banner-readme?username=LightNabz&theme=light&oc_url=https://raw.githubusercontent.com/LightNabz/github-stats-card/main/public/shork.gif"/>
-</div>
 <br>
-<div align="center">
   <img src="https://github-stats-card-two.vercel.app/api/stats?username=LightNabz&theme=dark"/>
 </div>
 
