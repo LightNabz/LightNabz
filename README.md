@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark"/>
+  <img src="https://github-stats-card-two.vercel.app/api/stats?username=LightNabz&theme=dark"/>
 </div>
 
 <br><br>
@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LightNabz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark"/>
 </div>
 
 <br><br>
