@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark"/>
+  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark" height="165"/>
 </div>
 
 <br><br>
