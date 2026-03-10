@@ -9,7 +9,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LightNabz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
+  ![](https://raw.githubusercontent.com/LightNabz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/LightNabz/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </div>
 
 <br><br>
