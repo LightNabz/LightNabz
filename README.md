@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-    <img src="https://github-stats-card-two.vercel.app/api/banner?username=LightNabz&theme=dark"/>
+  <img src="https://github-stats-card-two.vercel.app/api/banner?username=LightNabz&theme=dark"/>
 </div>
 <br>
 <div align="center">
@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark" />
+  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark" width="520"/>
 </div>
 
 <br><br>
