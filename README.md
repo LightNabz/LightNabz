@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/87846302" height="90" style="border-radius: 180px;" />
+    <img src="https://github-stats-card-two.vercel.app/api/stats?username=LightNabz&theme=dark"/>
 </div>
 <br>
 <div align="center">
