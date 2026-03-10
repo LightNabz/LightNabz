@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=light"/>
+  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=dark"/>
 </div>
 
 <br><br>
