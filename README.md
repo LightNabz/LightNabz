@@ -9,8 +9,7 @@
 </div>
 <br>
 <div align="center">
-  ![](https://raw.githubusercontent.com/LightNabz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/LightNabz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  <img src="https://github-stats-card-two.vercel.app/api/lang?username=LightNabz&theme=light"/>
 </div>
 
 <br><br>
