@@ -1,5 +1,5 @@
 <h2 align="left">Hi there~ 👋 I'm Nabz!</h2>
-<h3 align="left">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
+<h3 align="left">A full-stack developer (actually all in developer), digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
 
 <p align="left">I build cool (messy) stuff, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again, and... sometimes touch grass. Sometimes.</p>
 
@@ -54,5 +54,5 @@
 
 ---
 
-<p align="center">Always building, always learning, always a lil' bit chaotic. Catch me tinkering with some odd stack or ricing my Linux again.</p>
+<p align="center">Always building, always learning, always a lil' bit chaotic. Catch me tinkering with some odd stack or ricing my Linux again, or trying another obscure Unix/-like kernel.</p>
 <p align="center"><em>That's all~</em></p>
