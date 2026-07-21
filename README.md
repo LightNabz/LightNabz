@@ -4,8 +4,9 @@
 <p align="left">I build cool (messy) stuff, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again, and... sometimes touch grass. Sometimes.</p>
 
 ###
-![GitHub bento stats](https://github-stats-card-two.vercel.app/api/tiles?username=LightNabz&tiles=profile%2Cstreak%2Cstars%2Ccommits%2Ccontributions%2Clangs%2Cactivity&palette=lavender&mode=dark&cols=4)
-<div align="center">
+![GitHub bento stats](https://github-stats-card-two.vercel.app/api/tiles?username=LightNabz&tiles=streak%2Clangs%2Ccontributions%2Cstars%2Ccommits&palette=lavender&mode=dark&cols=4)
+
+<div align="left">
   <img src="https://github-stats-card-two.vercel.app/api/banner-readme?username=LightNabz&theme=light&oc_url=https://raw.githubusercontent.com/LightNabz/github-stats-card/main/public/shork.gif"/>
 </div>
 
