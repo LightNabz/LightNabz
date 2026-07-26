@@ -6,9 +6,9 @@
 ###
 ![GitHub bento stats](https://github-stats-card-two.vercel.app/api/tiles?username=LightNabz&tiles=streak%2Clangs%2Ccontributions%2Cstars%2Ccommits&palette=lavender&mode=dark&cols=4)
 
-<div align="left">
+<-- <div align="left">
   <img src="https://github-stats-card-two.vercel.app/api/banner-readme?username=LightNabz&theme=light&oc_url=https://raw.githubusercontent.com/LightNabz/github-stats-card/main/public/shork.gif"/>
-</div>
+</div> -->
 
 <br><br>
 
