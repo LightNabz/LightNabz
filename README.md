@@ -6,9 +6,7 @@
 ###
 ![GitHub bento stats](https://github-stats-card-two.vercel.app/api/tiles?username=LightNabz&tiles=streak%2Clangs%2Ccontributions%2Cstars%2Ccommits&palette=lavender&mode=dark&cols=4)
 
-<br><br>
-
-### 🛠️ Tech Stack
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -25,10 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
-</div>
-
-<div align="center">
-  <img src="https://github-stats-card-two.vercel.app/api/langs?username=LightNabz&theme=dark" width="520"/>
 </div>
 
 <br><br>
